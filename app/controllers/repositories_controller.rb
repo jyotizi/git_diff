@@ -1,0 +1,3 @@
+class RepositoriesController < ApplicationController
+
+end
